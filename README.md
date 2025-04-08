@@ -17,3 +17,4 @@ This project reads earthquake data from a GeoJSON file (USGS API) and visualizes
 ## 📊 Example of Visualization
 Below is an example of how the earthquake visualization will look:
 
+![Image](https://github.com/user-attachments/assets/511bd31a-5152-45fd-b825-ac676808d940)
